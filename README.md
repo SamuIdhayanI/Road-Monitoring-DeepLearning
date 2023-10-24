@@ -11,3 +11,6 @@ With a deep commitment to road safety, our system transcends mere accident reduc
 
 Furthermore, this study emphasizes the significance of adapting autonomous vehicle technologies to the specific challenges presented by the Indian road environment. By considering these challenges in real-time monitoring, we aim to enhance the overall performance and reliability of autonomous vehicles on Indian roads.
 
+
+
+*weights used in this project can be found here : https://drive.google.com/file/d/1bN6r6jabhEUNggdV48mM81H4B7oBJnx5/view?usp=sharing
