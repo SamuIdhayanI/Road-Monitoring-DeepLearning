@@ -1,0 +1,38 @@
+.table-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+.image-container {
+    padding: 10px;
+}
+
+.image-preview {
+    max-width: 100%;
+}
+
+.image-data-container {
+    display: flex;
+    margin: 20px;
+}
+
+.data-container {
+    flex: 1;
+    padding: 10px;
+    text-align: left;
+}
+.centered-table {
+    margin: 0 auto; /* Center horizontally */
+}
+.table-container {
+    overflow-x: auto;
+}
+
+/* Make the table take up 100% of its container */
+.table {
+    width: 100%;
+}
+td {
+    min-width: 120px; /* Adjust the value as needed */
+    word-break: break-word; /* Allow text to wrap to the next line if necessary */
+}
