@@ -12,4 +12,6 @@ Furthermore, this study emphasizes the significance of adapting autonomous vehic
 
 
 
-*weights used in this project can be found here : https://drive.google.com/file/d/1bN6r6jabhEUNggdV48mM81H4B7oBJnx5/view?usp=sharing
+* Weights used in this project can be found here : https://drive.google.com/file/d/1bN6r6jabhEUNggdV48mM81H4B7oBJnx5/view?usp=sharing
+
+* The webpage that lists the output of each model : https://samuidhayani.github.io/Tech-Savants-Website/
