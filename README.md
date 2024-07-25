@@ -4,6 +4,7 @@ In an era marked by rapid advancements in autonomous vehicle technologies, the h
 
 This project embarks on a mission to confront the challenges posed by the current state of Indian roads. From tackling issues as diverse as roadside garbage accumulation and non-functional traffic lights to addressing unlined roads and unmarked speed bumps, we endeavor to pave the way for the seamless coexistence of autonomous vehicles within the unique and dynamic context of India.
 
+
 Our primary objectives are clear: to enhance road safety and to create a conducive environment for the efficient operation of autonomous vehicles in India. To achieve these goals, we introduce a groundbreaking solution—a Real-Time Road Monitoring System powered by state-of-the-art Deep Learning algorithms. This system is designed to be more than just a passive observer of road conditions; it is an active participant in dynamically assessing and mitigating the road issues that we face.
 
 With a deep commitment to road safety, our system transcends mere accident reduction. It not only alerts drivers to potential hazards but also captures and stores invaluable information about these hazards. This stored data serves a crucial purpose—it acts as a proactive catalyst for informing local government authorities. By transmitting this comprehensive information, we empower authorities to take swift and targeted measures, effectively mitigating risks and ensuring the removal of hazards from our roads.
