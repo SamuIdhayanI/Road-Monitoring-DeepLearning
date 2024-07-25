@@ -12,6 +12,19 @@ Furthermore, this study emphasizes the significance of adapting autonomous vehic
 
 
 
-* Weights used in this project can be found here : https://drive.google.com/file/d/1bN6r6jabhEUNggdV48mM81H4B7oBJnx5/view?usp=sharing
+* **Weights used in this project can be found here :** https://drive.google.com/file/d/1bN6r6jabhEUNggdV48mM81H4B7oBJnx5/view?usp=sharing
 
-* The webpage that lists the output of each model : https://samuidhayani.github.io/Tech-Savants-Website/
+* **The webpage that lists the output of each model :** https://samuidhayani.github.io/Tech-Savants-Website/
+
+
+### Demo for each model:
+
+1. Roadside Litter Detection Model: https://youtu.be/rMXMZ5cPSFA
+
+2. Dysfunctional Traffic Lights Detection Model: https://youtu.be/tkmJ8cGKhr4
+
+3. Lined/Unlined Roads Classification Model: https://youtu.be/VO-S-MOqk6M
+
+4. Unmarked Speed Bumps Detection Model: https://youtu.be/IfwucpXW3ZE
+
+5. Unified Data Model (All four models together): https://youtu.be/0ZMTb8cVuig
