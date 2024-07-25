@@ -21,9 +21,9 @@ Furthermore, this study emphasizes the significance of adapting autonomous vehic
 
 1. Roadside Litter Detection Model: https://youtu.be/rMXMZ5cPSFA
 
-2. Dysfunctional Traffic Lights Detection Model: https://youtu.be/tkmJ8cGKhr4
+2. Dysfunctional Traffic Lights Detection Model: https://youtu.be/jlNoFzFQ_hA
 
-3. Lined/Unlined Roads Classification Model: https://youtu.be/VO-S-MOqk6M
+3. Lined/Unlined Roads Classification Model: https://youtu.be/EO_FFY7c2-c
 
 4. Unmarked Speed Bumps Detection Model: https://youtu.be/IfwucpXW3ZE
 
